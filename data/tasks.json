@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "CAT Preparation",
+    "description": "Study of VARC and Hindu editorials",
+    "priority": "medium",
+    "due_date": "2026-04-16T13:52:06.764000+00:00",
+    "status": "todo",
+    "created_at": "2026-04-16T19:22:46.837425",
+    "updated_at": "2026-04-16T19:22:46.837433",
+    "completed_at": null,
+    "ai_suggestions": null
+  },
+  {
+    "id": 2,
+    "title": "CAT Preparation",
+    "description": "Study of VARC and Hindu editorials",
+    "priority": "medium",
+    "due_date": "2026-04-16T13:52:06.764000+00:00",
+    "status": "todo",
+    "created_at": "2026-04-16T19:22:49.353081",
+    "updated_at": "2026-04-16T19:22:49.353089",
+    "completed_at": null,
+    "ai_suggestions": null
+  }
+]
